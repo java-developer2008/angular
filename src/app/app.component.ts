@@ -13,4 +13,5 @@ import {Component} from '@angular/core';
 export class AppComponent {
   name = 'This is first App';
   age = 100;
+  userName = '';
 }
